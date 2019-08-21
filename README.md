@@ -8,4 +8,4 @@
 
 [百度一下-你就知道](http://www.baidu.com "百度一下")
 
-![](https://github.com/nlpyulong/testClassify/二维码.PNG)
+![](https://github.com/nlpyulong/textClassify/blob/master/%E4%BA%8C%E7%BB%B4%E7%A0%81.PNG)
