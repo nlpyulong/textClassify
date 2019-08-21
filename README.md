@@ -7,3 +7,5 @@
 
 
 [百度一下-你就知道](http://www.baidu.com "百度一下")
+
+![](https://github.com/nlpyulong/testClassify/Tulips.jpg)
